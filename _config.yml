@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Uyen Nguyen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Uyen Nguyen"
 description              : "hi, i'm uyen."
 url                      : # the base hostname & protocol for your site e.g. "https://uyenn2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Uyen Nguyen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "hi, i'm uyen."
   location         : "Somewhere"
-  email            :
+  email            : "uyenn2@illinois.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
